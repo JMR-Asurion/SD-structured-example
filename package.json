@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "urql": "^3.0.3"
+  },
   "packageManager": "npm@9.2.0"
 }
